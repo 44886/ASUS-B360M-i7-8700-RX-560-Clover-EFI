@@ -1,9 +1,20 @@
 # ASUS B360M-i7 8700-RX 560 Clover EFI
-华硕B360M-basalt主板，intel i7 8700 CPU，RX 560显卡，利用Clover引导的99%完美黑果EFI
+`华硕B360M-basalt`主板，`intel i7-8700` CPU，`RX 560`显卡，利用Clover引导的99%完美黑果EFI，系统版本是:`10.15.2`
 
 自身是一个黑苹果的小白，最近折腾了几天，感觉肉眼能发现的功能已经没有什么问题了，详情在截图中。
 
 现在把EFI分享给大家。
+
+![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/1.png)
+
+![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/2.png)
+
+![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/3.png)
+
+![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/4.png)
+
+![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/5.png)
+
 
 ## 正常启用的功能
 ✅有线网络
