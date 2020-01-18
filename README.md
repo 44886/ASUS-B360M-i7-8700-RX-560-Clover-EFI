@@ -11,7 +11,7 @@
 
 ![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/3.png)
 
-![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/4.png)
+![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/4.1.png?526)
 
 ![截图展示](https://cdn.jsdelivr.net/gh/44886/ASUS-B360M-i7-8700-RX-560-Clover-EFI/screenshot/5.png)
 
